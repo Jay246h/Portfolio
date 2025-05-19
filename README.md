@@ -1,8 +1,8 @@
 ### 📦 프로젝트 목록
 
 - 🐧 Last Of Penguin Survivor  
-- 🗣️ Speak Speak  
-- 🌑 Deep In To RedMoon  
+- 🔩 Deep Hunter 
+- ☄️ Project-G
 
 ---
 
@@ -17,9 +17,3 @@
   ▸ Last Of Penguin  
 
 ---
-
-🧩 **라이선스 문제**
-
-- 외부 및 유료 에셋을 포함한 프로젝트는 라이선스 상의 이유로 전체 소스를 공개하지 않습니다.  
-  ▸ Speak Speak  
-  ▸ Deep In To RedMoon
